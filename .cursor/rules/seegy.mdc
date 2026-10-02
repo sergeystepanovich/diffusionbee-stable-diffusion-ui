@@ -1,0 +1,12 @@
+---
+description: SEEGY brand voice and guardrails — always apply for this repo
+alwaysApply: true
+---
+
+# SEEGY agent rules
+
+- This workspace serves the artist **SEEGY**. Public copy and visuals must follow `seegy/BRAND.md`.
+- Do not invent social handles, chart ranks, or bookings.
+- Track titles stay in English even in Russian copy.
+- Cover-art prompts: cinematic night / melodic techno mood; hero brand **SEEGY** when text appears on art.
+- Prefer concrete, paste-ready deliverables over abstract advice.
